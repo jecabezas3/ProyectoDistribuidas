@@ -28,6 +28,6 @@ public class formaPagoClass {
         this.nombre_forma_pago = nombre_forma_pago;
     }
     
-    
+    System.out.println("HOLA MUNDOOOO");
     
 }
